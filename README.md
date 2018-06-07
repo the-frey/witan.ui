@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/the-frey/witan.ui.svg?branch=master)](https://travis-ci.org/the-frey/witan.ui)
+
 # Witan.UI
      _    _ _ _               _   _ _____
     | |  | (_) |             | | | |_   _|

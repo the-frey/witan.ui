@@ -1,0 +1,4 @@
+language: clojure
+sudo: enabled
+lein: 2.8.1
+script: lein test
